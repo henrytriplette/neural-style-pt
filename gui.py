@@ -95,7 +95,7 @@ def main():
             args = utility.dotdict(args)
             neural_style_gui.main(args)
 
-            sg.Popup('Title', 'The results of the window.')
+            sg.Popup('Completed', 'Style transfer completed')
 
 
     window.Close()   # Don't forget to close your window!
