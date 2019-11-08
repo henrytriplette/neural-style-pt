@@ -10,3 +10,4 @@ models/
 venv/*
 results/*
 examples/*
+training/*
